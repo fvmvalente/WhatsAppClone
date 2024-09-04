@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="text_validacao">Você recebeu um SMS para validação do seu número. Digite o código de validação abaixo:</string>
+    <string name="logo_validacao">VALIDAÇÃO</string>
+    <string name="btn_validar">Validar</string>
+    <string name="codigo_validacao">Digite o código de validação</string>
+    <string name="hint_nome">Nome</string>
+    <string name="hint_codigo_pais">+55</string>
+    <string name="hint_codigo_area">00</string>
+    <string name="hint_telefone">99999-9999</string>
+    <string name="btn_cadastrar">Cadastrar</string>
+    <string name="nomeUsuario">Digite o seu usuário</string>
+    <string name="emailUsuario">Digite o e-mail</string>
+    <string name="senhaUsuario">Digite a senha</string>
+    <string name="login">Login</string>
+    <string name="emailLogin">Digite seu e-mail</string>
+    <string name="senhaLogin">Digite sua senha</string>
+    <string name="todo">TODO</string>
+</resources>
